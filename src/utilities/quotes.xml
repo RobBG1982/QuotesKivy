@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--xmlns:android="http://schemas.android.com/apk/res/android" -->
+<quoteList>
+    <version>1.0</version>
+    <count>191</count>
+    <created>23-JUN-2021</created>
+    <dateUpdated>28-JUN-2023</dateUpdated>
+
+    <quote>
+        <author>Rueben Harris</author>
+        <text>Good, Better, Best. Never let it rest.  Until your good is better, and your better is Best.</text>
+        <labels>
+            <label>Inspirational</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Micheal Jordan</author>
+        <text>I&apos;ve failed over and over and over and over again in my life. And that is why I succeed</text>
+        <labels>
+            <label>Inspirational</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Malcolm X</author>
+        <text>If you stick a knife in my back 9 inches and pull it out 6 inches; there&apos;s no progress. If you pull it all the way out; that&apos;s not progress.  The progress is healing the wound that the blow made. And they won&apos;t even admit the knife is there</text>
+        <labels>
+            <label>Justice</label>
+            <label>Revolution</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Octavia Butler</author>
+        <text>Forget inspiration. Habit is more dependable. Habit will sustain you; whether you are inspired or not.  Habit will help you finish and polish your stories. Inspiration won&apos;t. Habit is persistence in practice.</text>
+        <labels>
+            <label>Inspiration</label>
+            <label>Discipline</label>
+            <label>Success</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Me</author>
+        <text>The first 5% and last 10% of the work will take 50% of the effort.  Plan accordingly</text>
+        <labels>
+            <label>Achievement</label>
+            <label>Success</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Royce 59</author>
+        <text>A woman’s loyalty is tested when her man has nothing.  A men’s loyalty is tested when he has everything. </text>
+        <labels>
+            <label>Rap</label>
+        </labels>
+        <notes>Legendary</notes>
+    </quote>
+
+    <quote>
+        <author>James Baldwin</author>
+        <text>Not everything that is faced can be changed. But nothing can be changed until it is faced.</text>
+        <labels>
+            <label>courage</label>
+            <label>conflict</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Kanye West</author>
+        <text>I no longer have a manager. I can’t be managed.</text>
+        <labels>
+            <label>Crazy</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Walter Mosley</author>
+        <text>When you have no answers, ask different questions</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+        <notes>The Long Fall</notes>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>Sometimes, not saying anything is the answer. You see, silence can never be misquoted</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>Don’t limit your challenges. Challenge your limits.</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>You’re gonna piss off a lot of people; when you start doing what’s best for you.</text>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>Forget the mistake; remember the lesson.</text>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>Make calculated moves; not emotional ones.</text>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>Hustlers don&apos;t complain; we figure it out</text>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>Success doesn&apos;t come from what you do occasionally but what you do consistently.</text>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>The quieter you become; the more you can hear.</text>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>I can’t cry about having a lot on my plate when my goal is to eat.</text>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>>
+        <text>Privacy is power. What people don’t know; they can’t ruin.</text>
+    </quote>
+
+    <quote>
+        <author>Abraham Simpson</author>
+        <text>I used to be with it. Then they changed what it was. Now what I&apos;m with isn&apos;t it and what&apos;s it seems weird and scary to me. It&apos;ll happen to you. </text>
+        <labels>
+            <label>old</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Lil Wayne</author>
+        <text>My mind so sharp; mess around; cut my head off</text>
+        <labels>
+            <label>rap</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Lil Wayne</author>
+        <text>Real Gs move in silence like lasagna</text>
+        <labels>
+            <label>rap</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Edwin Lewis Cole</author>
+        <text>You don&apos;t drown by falling in a river; but by staying submerged</text>
+    </quote>
+
+    <quote>
+        <author>Martin luther King Jr.</author>
+        <text>One has not only a legal but a moral responsibility to obey just laws. Conversely; one has a moral responsibility to disobey unjust laws.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>You&apos;re only as old as your ability to process new information</text>
+    </quote>
+
+    <quote>
+        <author>Will Smith</author>
+        <text>To Build a perfect wall; lay down that next brick as well as you possibly can</text>
+    </quote>
+
+    <quote>
+        <author>Black Thought</author>
+        <text>Time is money and only the reaper knows the budget</text>
+        <labels>
+            <label>rap</label>
+            <label>freestyle</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Playing silly games; gets you silly results</text>
+    </quote>
+
+    <quote>
+        <author>Tyrann Mathieu</author>
+        <text>Control your emotions doesn&apos;t mean avoid your emotions. Feel that shit; understand that shit; just don’t lose your shit.</text>
+        <labels>
+            <label>emotions</label>
+            <label>maturity</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Jesmyn Ward</author>
+        <text>This the kind of world that makes fools out of the living; saints of the dead and devils them throughout.</text>
+        <notes>Sing; Unburied Sing</notes>
+    </quote>
+
+    <quote>
+        <author>Micheal Parhum</author>
+        <text>You didn&apos;t come this far; just to come this far</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>I&apos;m moving different because I want different. Old keys can&apos;t unlock new doors.</text>
+    </quote>
+
+    <quote>
+        <author>Benjamin E. Mays</author>
+        <text>The Older he grew; the less he spoke; and the more he said</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>A man who procrastinates in his choosing will inevitably have his choice made for him by circumstance.</text>
+        <labels>
+            <label>control</label>
+            <label>agency</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Adam Savage</author>
+        <text>The only difference between screwing around and science is writing it down</text>
+        <labels>
+            <label>science</label>
+            <label>funny</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Lil Wayne</author>
+        <text>Billion dollar smile; I sell myself short if I grin</text>
+        <labels>
+            <label>rap</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Listen; if drunk me said or did something; you gotta take it up with drunk me. Don&apos;t come at sober me because we weren&apos;t there.  We don&apos;t know what happened.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>An expert is always focused on what he knows, always proud of what she knows. A scientist is always focused on what he does not know, what she cannot understand and cannot explain.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Everyone wants to eat, But few are willing to hunt</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Comparison is the enemy of identity</text>
+    </quote>
+
+    <quote>
+        <author>Theodore Roosevelt</author>
+        <text>Comparison is the thief of joy</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Money is a chain that the worker willingly wraps around his own neck</text>
+    </quote>
+
+    <quote>
+        <author>Denzel Washington</author>
+        <text>If you had $86,400 and someone stole $60; would you throw away $86;340 for revenge? Or move on and live? Each of us have 86;400 seconds every day. DON&apos;T let someone&apos;s negative 60 seconds ruin the remaining 86,340. LIFE IS BIGGER THAN THAT AND SO ARE YOU!</text>
+    </quote>
+
+    <quote>
+        <author>Honey-eyed olive; itzlumberzack</author>
+        <text>one time someone said pavlov probably thought about feeding his dogs every time he heard someone ring a bell and i haven’t been the same since</text>
+    </quote>
+
+    <quote>
+        <author>Terry Prachett</author>
+        <text> “It was so much easier to blame it on Them. It was bleakly depressing to think that They were Us. If it was Them; then nothing was anyone&apos;s fault. If it was us; what did that make Me? After all; I&apos;m one of Us. I must be. I&apos;ve certainly never thought of myself as one of Them. No one ever thinks of themselves as one of Them. We&apos;re always one of Us. It&apos;s Them that do the bad things.”</text>
+        <notes>Jingo</notes>
+    </quote>
+
+    <quote>
+        <author>Jesus Christ Matthew 5:46</author>
+        <text>If you love only those that love you, what reward is there for that?  Even the corrupt do that much.  If you are kind only to your friends, How are you different than anyone else</text>
+    </quote>
+
+    <quote>
+        <author>Will Rogers</author>
+        <text>Never miss a good chance to shut up</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Holding a grudge is like drinking poison and hoping the other person dies</text>
+    </quote>
+
+    <quote>
+        <author>Carl von Clausewitz, Prussian General</author>
+        <text>The greatest enemy of a good plan is the dream of the perfect plan</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>The only time a man can be brave is when he&apos;s afraid</text>
+    </quote>
+
+    <quote>
+        <author>Banksy</author>
+        <text>The grumpier you are the more assholes you meet</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Failure is a part of the process of success</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Creativity is intelligence having fun</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Everything I want is on the other side of fear</text>
+    </quote>
+
+    <quote>
+        <author>Dan Brown</author>
+        <text> A man will go to far greater lengths to avoid what they fear, than to gain what they desire</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Money is a chain that the worker willingly wraps around his own neck</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Do not marry the person you can live with. Marry the person you cannot live without!</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Love has no Distance.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> You, yourself, as much as anybody in the entire universe, deserves your love and affection.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> I believe that friends are quiet angels who lift us to our feet when our wings have trouble remembering how to fly.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Don’t walk in front of me. I may not follow. Don’t walk behind me. I may not lead. Walk beside me and just be my friend.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> A true friend is someone who is there for you when they’d rather be somewhere else........</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>People say true friends must always hold hands. But true friends don&apos;t need to hold hands because they know the other hand will always be there.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Stay close to your friends and family; for they have helped make you the person that you are today and are what it&apos;s all about anyway.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Friends are very rare jewels, indeed. They make you smile and encourage you to succeed. They lend an ear, they share words of praise and they always want to open their hearts to us.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Man who runs in front of car gets tired, Man who runs behind car gets exhausted.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> What I do today is important because I am exchanging a day of my life for it.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> When you were born, you cried and the world rejoiced. Live your life in a manner so that when you die the world cries and you rejoice.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> The past is history. The future is a mystery. And today is a gift. That&apos;s why we call it the present.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> The wise man must remember that while he is a descendant of the past, he is a parent of the future.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Live a good, honorable life. Then when you get older and think back, you&apos;ll be able to enjoy it a second time.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Let you live your life; it would be a shame to have others live it for you.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Half of our mistakes in life arise from feeling where we ought to think and thinking where we ought to feel.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Never look down on anybody unless you’re helping them up.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Developing a mind is important, but developing a conscious is the most precious gift parents give their children.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Some people dream of worthy accomplishments; while others stay awake and do them.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> A Goal Is A Dream With A Finish Line.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> All our dreams can come true, if we have the courage to pursue them.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> If you think the world turned it&apos;s back on you take a look around. You probably turned your back on the world.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Don’t worry about the world coming to an end today. It is already tomorrow in Australia.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> What a wonderful world.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> To the world you may be one person, but to one person, you may be the world</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> It is our choices that show what we truly are, far more than our abilities.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Ability is what you&apos;re capable of doing; Motivation determines what you do; and Attitude determines how well you do it.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> It’s not enough to be good if you have the ability to be better.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> An eye for an eye only ends up making the whole world blind.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> In the land of the blind, the one eyed man is king.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> A man can fail many times, but he isn’t a failure until he begins to blame others.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> If you make a mistake and refuse to admit it; you hurt yourself twice: once; when you make the mistake; a second time; when you refuse to learn from your mistake.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> It’s not whether you get knocked down. It’s whether you get up again.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> A man is not finished when he is defeated. He is finished when he quits.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Sportsmanship is not a set of rules, it is a way of life.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Nothing great was ever achieved without enthusiasm.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Always do more than is required of you.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> If you want a helping hand, first look to the end of your own arm.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Ask not what your country can do for you, ask what you can do for your country.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Always remember that others may hate you, but those who hate you don’t win unless you hate them. And then you destroy yourself.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Do what you can, with what you have, where you are.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> God doesn&apos;t require us to succeed, he only requires that you try.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> What does not destroy me makes me stronger.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> When you go in search of honey, you must expect to get stung by the bees.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Most look up and admire the stars, a champion climbs a mountain and grabs one</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> A man who throws dirt loses ground.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Everyone faces disappointments at one time or another, but the winners are the ones who refuse to let disappointments become discouragements.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Do not wish to be anything but what you are, and try to be that perfectly.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> It is easy to make things difficult, but difficult to make things easy.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> A brave heart is a powerful weapon</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Be proud of how far you have come. Have faith in how far you can go.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Doing your best is more important than being the best.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> No matter how fast you are, someone is faster. No matter how hard you train, someone is training harder. No matter how much you want it, someone wants it more...BE SOMEONE!</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Shoot for the moon if you miss you will still land among the stars.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> The secret of happiness is not in doing what one likes, but in liking what one does.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> A rich person is not one who has the most, but is one who needs the least.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> I am not anxious to die, I am anxious to matter.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Never argue with stupid people. They bring you down to their level and then they beat you with experience...</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> You don’t have to feel good to do good.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Don&apos;t wait for your ship to come in, swim out to it.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> If you don&apos;t lie down, no one can walk on you.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> If you want the rainbow you have to put up with the rain.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Stand for something or you&apos;ll fall for anything.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Life is about using your life to touch or poison other people’s hearts in such a way that could have never occurred alone. Only you choose the way those hearts are affected; and those choices are what life’s all about.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> People spend a lifetime searching for happiness, looking for peace. They chase idle dreams, addictions, religions, even other people; hoping to fill the emptiness that plagues them. The irony is the only place they ever needed to search was within.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> To the night I give myself, to the darkness I fall, and in the arms of sleep I am cradled.  Starlight kisses goodnight and a gentle brush against the face of tender caress to all of you, for we all are loved by the night, and I luv all of you you&apos;ve made my life brighter, so hugs and kisses to you all!</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Do sharks complain about Monday. No. They’re up Early.  Biting Stuff, Chasing shit. Being Scary. - Reminding everyone they’re a fucking shark!   </text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Every ship in the ocean raises the ocean just slightly.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> We claim to be the dominant species, but the second a wasp shows up, we become its bitch.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Once you realize what respect feels like, its so much better than attention</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> There are people LESS QUALIFIED than you. Doing things you want to do. Simply because they decided to take ACTION</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> There are only two days in the year that nothing can be done.  One is called yesterday; the other is called tomorrow, so today is the right day to love, believe, do and mostly, Live. </text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Don’t be afraid to start over.  It is a chance to build something better this time. </text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Happiness is not something ready made.  It comes from your own actions.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Confidence is not walking into a room, thinking you are better than everyone else.  It’s walking into a room and not having to compare yourself to anyone in the first place.</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text> Don’t let your nightmares keep you from your dreams</text>
+    </quote>
+
+    <quote>
+        <author>Blackthought</author>
+        <text>I told ya&apos;ll when I told y&apos;all, Things Fall apart when the center too weak to hold y&apos;all</text>
+        <labels>
+            <label>Rap</label>
+            <label>RealTalk</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Cardi B</author>
+        <text>A lie in a language I cant even read, da fuck do dis mean</text>
+        <labels>
+            <label>Rap</label>
+            <label>Raunchy</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Caron Butler\Kobe Bryant</author>
+        <text>When your motivation runs low, your discipline takes over</text>
+        <labels>
+            <label>Inspirational</label>
+            <label>Discipline</label>
+            <label>Basketball</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>The Watcher</author>
+        <text>I have seen everything that has ever happened. Ever will happen. Ever could happen. And yet... WHAT THE HELL IS THIS</text>
+        <labels>
+            <label>Funny</label>
+            <label>Marvel</label>
+            <label>Surprise</label>
+            <label>Unknown</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Corinthians 13:4-6</author>
+        <text>Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrongdoing, but rejoices with the truth.</text>
+        <labels>
+            <label>Love</label>
+            <label>Bible</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Corinthians 13:7</author>
+        <text>Love bears all things, believes all things, hopes all things, endures all things. Love never ends.</text>
+        <labels>
+            <label>Love</label>
+            <label>Bible</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Who you are is a choice. One made every second of every minute of every hour of every day of your life.</text>
+        <labels>
+            <label>Decisions</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>In life there are things we do of obligation, and things we do of preference. Always make yourself an option of preference</text>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Discipline is the Bridge between GOALS and ACCOMPLISHMENTS.</text>
+        <labels>
+            <label>Achievement</label>
+            <label>Discipline</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Kanye West</author>
+        <text>Too many Urkels on your team, that's why you Wins low.</text>
+        <labels>
+            <label>funny</label>
+            <label>rap</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Jay-Z</author>
+        <text>If you can't buy it twice, then you can't afford it.</text>
+        <labels>
+            <label>Finance</label>
+            <label>rap</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Jay-Z,Lucifer</author>
+        <text>No lie, just know I chose my own fate. I drove by the fork in the road and went straight.</text>
+        <labels>
+            <label>rap</label>
+            <label>Lucifer</label>
+            <label>decisions</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Donna Cotton</author>
+        <text>If it doesn't bring Peace, Profits or Purpose then don't give it your time, energy or attention.</text>
+        <labels>
+            <label>PPP</label>
+            <label>Time</label>
+            <label>Value</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Amani Hooper</author>
+        <text>When you wake up in the morning, you have ruined that morning.</text>
+        <labels>
+            <label>funny</label>
+            <label>morning</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Jay-Z</author>
+        <text>Remind yourself, nobody built like you, you designed yourself.</text>
+        <labels>
+            <label>funny</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Biggs Burke</author>
+        <text>Its not my responsibility to live up to someone else's idea of who I should be.</text>
+        <labels>
+            <label>agency</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Kareem Biggs Burke</author>
+        <text>Don't ask me for anything I can't ask you for.</text>
+        <labels>
+            <label>RealTalk</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Robin Williams</author>
+        <text>Everyone you meet is fighting a battle you know nothing about.  Be Kind. Always.</text>
+        <labels>
+            <label>kindness</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Biggs Burke</author>
+        <text>Don't ruin today by overthinking what happened yesterday and what could happen tomorrow.</text>
+        <labels>
+            <label>time</label>
+            <label>maturity</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>NK Jemison</author>
+        <text>What good does it do to be valuable, if nobody values you.</text>
+        <labels>
+            <label>agency</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Banksy</author>
+        <text>Nobody ever listened to me until they didn't know who I was.</text>
+        <labels>
+            <label>funny</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Banksy</author>
+        <text>There is nothing more dangerous than someone who wants to make the world a better place.</text>
+        <labels>
+            <label>revolution</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Ovid</author>
+        <text>Water breaks stone, not with force, but with persistence.</text>
+        <labels>
+            <label>persistence</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Damon Dash</author>
+        <text>I don't like being mad. Emotion isn't profitable.</text>
+        <labels>
+            <label>emotions</label>
+            <label>success</label>
+            <label>control</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Arabic proverb</author>
+        <text>Only speak when your words are better than silence</text>
+        <labels>
+            <label>wisdom</label>
+            <label>maturity</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Chris Rock</author>
+        <text>Only women, children and dogs are loved unconditionally.  A man is loved under the condition that he provide something.</text>
+        <labels>
+            <label>love</label>
+            <label>emotion</label>
+            <label>value</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Charles Wagner</author>
+        <text>The joy is not in things.  It is in us.</text>
+        <labels>
+            <label>funny</label>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>The heaviest burdens we carry are the thoughts in our heads</text>
+        <labels>
+            <label>wisdom</label>
+            <label>emotions</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Snoop</author>
+        <text>Some people won't realize how hard you ride for them until you park</text>
+        <labels>
+            <label>rap</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>AVon Barksdale</author>
+        <text>Don't make it no more than what it has to be</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Unknown</author>
+        <text>Are you having a bad day, or a bad moment that you're dragging through the day</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Monty Python</author>
+        <text>Strange women lying in ponds distributing swords is no basis for a system of
+            government. Supreme executive power derives from a mandate from the masses, not from
+            some farcical aquatic ceremony.</text>
+        <labels>
+            <label>test_label</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Monty Python</author>
+        <text>YOur mother was a hamster and your father smelled of elderberries</text>
+        <labels>
+            <label>funny</label>
+            <label>movies</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Me</author>
+        <text>Spend your life on your purpose</text>
+        <labels>
+            <label>discipline</label>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Plato</author>
+        <text>Wise men speak because they have something to say; fools because they have to say something</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Kevin hart</author>
+        <text>I made a bunch of mistakes, I'll make a bunch more tomorrow. If I'm fortunate, I'll learn from them.</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>Malcolm X</author>
+        <text>An Honest enemy is better than a dishonest friend</text>
+        <labels>
+            <label>friendship</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>NK Jemisin</author>
+        <text>What good does it do to be valuable if noone values you</text>
+        <labels>
+            <label>book</label>
+            <label>The City We Became</label>
+        </labels>
+    </quote>
+
+    <quote>
+        <author>General Patton</author>
+        <text>You don't win wars by "dying for your country", you win by making the other bastard die for his!</text>
+        <labels>
+            <label>conflict</label>>
+            <label>courage</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Waymond Wang (Everything, Everywhere, All at Once)</author>
+        <text>You're capable of anything, because you're so bad at everything</text>
+        <labels>
+            <label>test_label</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Jay-Z (Mark Twain)</author>
+        <text>A wise man told me don't argue with fools. Cause people from a distance can't tell who is who.</text>
+        <labels>
+            <label>Rap</label>
+            <label>Wisdom</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Bruce Lee</author>
+        <text>Don't pray for an easy life, pray for the strength to endure a difficult one.</text>
+        <labels>
+            <label>control</label>
+            <label>Wisdom</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Bruce Lee</author>
+        <text>I fear not the man who has practiced 1000 punches once, but the man who has practiced one punch 1,000 times.</text>
+        <labels>
+            <label>practice</label>
+            <label>discipline</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Unknown</author>
+        <text>Procrastination is the arrogant assumption that God owes you another chance to do tomorrow what he gave you a chance to do today.</text>
+        <labels>
+            <label>efficiency</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Benoit Blanc (Glass Onion)</author>
+        <text>I am very bad at stupid things.</text>
+        <labels>
+            <label>funny</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Benoit Blanc (Glass Onion)</author>
+        <text>It's a dangerous thing to mistake speaking without thought to speaking the truth.</text>
+        <labels>
+            <label>funny</label>
+            <label>RealTalk</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Diane Ackerman</author>
+        <text>I don't want to get to the end of my llife and find that I lived just the length of it. I want to have lived the width of it.</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Albert Einstein</author>
+        <text>Insanity is repeating the same mistakes and expecting different results.</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Timothy 6:10</author>
+        <text>The love of money is the root of all evil.</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Jim Harbaugh</author>
+        <text>Attack each day with an enthusiasm unknown to mankind.</text>
+        <labels>
+            <label>inspiration</label>
+            <label>morning</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Jim Harbaugh</author>
+        <text>I was and still am happier than a pig in slop.</text>
+        <labels>
+            <label>funny</label>
+            <label>crazy</label>
+        </labels>
+    </quote>
+	
+    <quote>
+        <author>Jim Harbaugh</author>
+        <text>I have always believed that you win as part of a team effort. I’ve learned that if everybody does a little bit, it adds up to a lot.</text>
+        <labels>
+            <label>inspiration</label>
+            <label>teamwork</label>
+        </labels>
+    </quote>
+	
+	<quote>
+        <author>Unknown</author>
+        <text>It's not a bug, it's a feature.</text>
+        <labels>
+            <label>opportunity</label>
+            <label>perspective</label>
+        </labels>
+    </quote>
+	
+	<quote>
+        <author>Royce59</author>
+        <text>The problem is rarely the problem (The way you think about it is).</text>
+        <labels>
+            <label>opportunity</label>
+            <label>perspective</label>
+        </labels>
+    </quote>
+	
+	<quote>
+        <author>KareemBurke</author>
+        <text>I don't mind struggling with you, but I'm definitely not going to struggle because of you.</text>
+        <labels>
+            <label>relationship</label>
+            <label>perspective</label>
+        </labels>
+    </quote>
+	
+	<quote>
+        <author>Omar, The Wire</author>
+        <text>Money don't have no spenders, only owners.</text>
+        <labels>
+            <label>value</label>
+            <label>maturity</label>
+        </labels>
+    </quote>
+	
+	<quote>
+        <author>Prez, The Wire</author>
+        <text>No one wins, one side just loses more slowly.</text>
+        <labels>
+            <label>conflict</label>
+            <label>justice</label>
+        </labels>
+    </quote>
+	
+	<quote>
+        <author>Bunk, The Wire</author>
+        <text>Don't go giving a fuck when its not your turn to give a fuck.</text>
+        <labels>
+            <label>conflict</label>
+            <label>justice</label>
+        </labels>
+    </quote>
+	
+	<quote>
+        <author>Prop Joe, The Wire</author>
+        <text>Buy for one, sell for tew (Keep it simple).</text>
+        <labels>
+            <label>success</label>
+            <label>value</label>
+        </labels>
+    </quote>
+	
+	<quote>
+        <author>Van, Van Wilder</author>
+        <text>Worrying is like a rocking chair.  It gives you something to do, but doesn't get you anywhere.</text>
+        <labels>
+            <label>wisdom</label>
+        </labels>
+    </quote>
+</quoteList>
+
+“If you live for their acceptance, you’ll die from their rejection.” 
+-Lecrae
+
+
+"If you try to please everyone, you will end up pleasing no one." Very well said vinh
+Hestia_Gault
+·
+3 hr. ago
+
+
+In a cult, the guy at the top knows it’s all bullshit. In a religion, that guy is dead.
+
+
+"The job will not save you"
+
+"Life. It's the shit that happens while you're waiting for the moments that never come."
+
+Both from the same conversation. Cool Lester Smooth had wisdom
+

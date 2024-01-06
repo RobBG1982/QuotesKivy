@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--xmlns:android="http://schemas.android.com/apk/res/android" -->
+<promptList>
+    <version>1.0</version>
+    <count>1</count>
+    <created>28-MAY-2023</created>
+    <dateUpdated>28-MAY-2023</dateUpdated>
+
+
+    <prompt>
+        <author></author>
+		<source></source>
+        <text>Africans were explorers</text>
+        <labels>
+            <label>AlternateHistory</label>
+        </labels>
+    </prompt>
+
+    <prompt>
+        <author></author>
+		<source></source>
+        <text></text>
+        <labels>
+            <label></label>
+        </labels>
+    </prompt>	
+
+</promptList>
+
