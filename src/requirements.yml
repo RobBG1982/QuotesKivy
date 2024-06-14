@@ -1,4 +1,4 @@
-name: gasenv
+name: quoteenv
 channels:
   - conda-forge
   - defaults
