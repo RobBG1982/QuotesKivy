@@ -2,9 +2,9 @@
 <!--xmlns:android="http://schemas.android.com/apk/res/android" -->
 <quoteList>
     <version>1.0</version>
-    <count>191</count>
+    <count>204</count>
     <created>23-JUN-2021</created>
-    <dateUpdated>28-JUN-2023</dateUpdated>
+    <dateUpdated>16-JUN-2024</dateUpdated>
 
     <quote>
         <author>Rueben Harris</author>
@@ -1328,6 +1328,13 @@
         <text>We must be willing to get rid of the life we've planned, so as to have the life that is waiting for us</text>
         <labels>
             <label>life</label>
+        </labels>
+    </quote>
+	<quote>
+        <author>Bei Dao</author>
+        <text>Freedom is only the distance between the hunter and its prey</text>
+        <labels>
+            <label>freedom</label>
         </labels>
     </quote>
 </quoteList>
