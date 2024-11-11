@@ -4,7 +4,7 @@
     <version>1.2</version>
     <count>220</count>
     <created>23-JUN-2021</created>
-    <dateUpdated>24-JUL-2024-2024</dateUpdated>
+    <dateUpdated>24-JUL-2024</dateUpdated>
 
     <quote>
         <author>Rueben Harris</author>
@@ -1452,10 +1452,17 @@ A prey will kill you because it benefits from seeing you dead.</text>
         </labels>
     </quote>
 	<quote>
-        <author>empty</author>
-        <text>empty</text>
+        <author>John Green, NerdFighter</author>
+        <text>In the grand scheme of things, noone of this matters.  But I don't live in the grand scheme of things.</text>
         <labels>
             <label></label>
         </labels>
     </quote>
+	<quote>
+        <author>War Doctor (John Hurt)</author>
+        <text>Great men are forged in fire.  It is the privilege of lesser men to light the flame</text>
+        <labels>
+            <label></label>
+        </labels>
+    </quote>	
 </quoteList>

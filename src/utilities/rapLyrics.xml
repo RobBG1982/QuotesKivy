@@ -2,9 +2,9 @@
 <!--xmlns:android="http://schemas.android.com/apk/res/android" -->
 <lyricList>
     <version>1.0</version>
-    <count>13</count>
+    <count>16</count>
     <created>09-MAY-2023</created>
-    <dateUpdated>09-MAY-2023</dateUpdated>
+    <dateUpdated>28-JULY-2024</dateUpdated>
 
 
     <lyric>
@@ -131,7 +131,42 @@
         <labels>
             <label>Wisdom</label>
         </labels>
+    </lyric>		
+	
+	<lyric>
+        <artist>Jay-Z</artist>
+        <song>They Don't Love you no More</song>
+        <text>People look at you and say you changed, as if you worked that hard to stay the same.</text>
+        <labels>
+            <label></label>
+        </labels>
+    </lyric>
+	
+	<lyric>
+        <artist>Nas</artist>
+        <song>Represent</song>
+        <text>I never sleep cuz' sleep is the cousin of death</text>
+        <labels>
+            <label></label>
+        </labels>
+    </lyric>	
+	
+	<lyric>
+        <artist>Jay-Z</artist>
+        <song>Hovi Baby</song>
+        <text>They say a midget standing on a giant’s shoulders can see much further than the giant. So I got the whole rap world on my shoulders, they trying to see further than I am.</text>
+        <labels>
+            <label></label>
+        </labels>
+    </lyric>
+	
+	<lyric>
+        <artist>empty</artist>
+        <song></song>
+        <text></text>
+        <labels>
+            <label></label>
+        </labels>
     </lyric>	
 
 </lyricList>
-
